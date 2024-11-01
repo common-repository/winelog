@@ -1,0 +1,8 @@
+.wl_winelist {	
+	margin: 1em 0 1em 0;	
+	list-style:none outside none;
+}
+.wl_winelist img {float: left; width: 25px; margin-right: 3px;}
+.wl_winelist li {margin-bottom: 1em;}
+.wl_winelist h5 {margin-bottom: 0;}
+.wl_winelist .boxlink {font-size: .8em;}
